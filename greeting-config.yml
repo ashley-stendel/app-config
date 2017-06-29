@@ -1,0 +1,7 @@
+spring:
+  basic:
+    security: false
+
+management:
+  security:
+    enabled: false
